@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubboxdemo-service" />
+        <module name="dubboxdemo-web" />
+        <module name="gossip-sipder-solrCloud" />
+        <module name="gossip-spider-day01" />
+        <module name="gossip-spider-day02" />
+        <module name="gossip-spider-lucene" />
+        <module name="gossip-spider-redis" />
+        <module name="gossip-spider-solr" />
+        <module name="socket-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubboxdemo-service" target="1.8" />
+      <module name="dubboxdemo-web" target="1.8" />
+      <module name="gossip-sipder-solrCloud" target="1.8" />
+      <module name="gossip-spider-day01" target="1.8" />
+      <module name="gossip-spider-day02" target="1.8" />
+      <module name="gossip-spider-lucene" target="1.8" />
+      <module name="gossip-spider-parent" target="1.8" />
+      <module name="gossip-spider-redis" target="1.8" />
+      <module name="gossip-spider-solr" target="1.8" />
+      <module name="socket-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

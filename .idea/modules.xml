@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubboxdemo-service/dubboxdemo-service.iml" filepath="$PROJECT_DIR$/dubboxdemo-service/dubboxdemo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubboxdemo-web/dubboxdemo-web.iml" filepath="$PROJECT_DIR$/dubboxdemo-web/dubboxdemo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gossip-sipder-solrCloud/gossip-sipder-solrCloud.iml" filepath="$PROJECT_DIR$/gossip-sipder-solrCloud/gossip-sipder-solrCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gossip-spider-day01/gossip-spider-day01.iml" filepath="$PROJECT_DIR$/gossip-spider-day01/gossip-spider-day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gossip-spider-day02/gossip-spider-day02.iml" filepath="$PROJECT_DIR$/gossip-spider-day02/gossip-spider-day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gossip-spider-lucene/gossip-spider-lucene.iml" filepath="$PROJECT_DIR$/gossip-spider-lucene/gossip-spider-lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gossip-spider-parent.iml" filepath="$PROJECT_DIR$/gossip-spider-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gossip-spider-redis/gossip-spider-redis.iml" filepath="$PROJECT_DIR$/gossip-spider-redis/gossip-spider-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gossip-spider-solr/gossip-spider-solr.iml" filepath="$PROJECT_DIR$/gossip-spider-solr/gossip-spider-solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-demo/socket-demo.iml" filepath="$PROJECT_DIR$/socket-demo/socket-demo.iml" />
+    </modules>
+  </component>
+</project>
